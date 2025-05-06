@@ -1,7 +1,7 @@
 PC壁纸预览
  
 
-<img src="[https://github.com/mickeywaley/wiki/raw/master/PC/0dc1a7086d4f3d4f81d7284d2a05665b.jpg]" alt="" border="0" />
+<img src="[https://github.com/mickeywaley/wiki/raw/master/PC壁纸/0dc1a7086d4f3d4f81d7284d2a05665b.jpg]" alt="" border="0" />
 
 
 
