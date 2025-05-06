@@ -1,0 +1,21 @@
+脚本地址 https://github.com/Cathgao/ddns-cloudflare/blob/master/ddns.sh
+
+ddns-cloudflare Linux下cloudflare的DDNS脚本，支持ipv4和ipv6
+
+依赖：curl
+
+注意：若使用了自动代理，请将 api.ilemonrain.com 添加至白名单，否则获取的公网ip为代理服务器ip非本机IP！
+
+目前获取ip地址已失效
+
+简要说明
+############### 授权信息（需修改成你自己的） ################
+# CloudFlare 注册邮箱
+auth_email=“”
+# CloudFlare Global API Key，下一节会说到
+auth_key=“”
+# 做 DDNS 的根域名
+zone_name=“”
+# 做 DDNS 的域名，创建成功后就是通过该域名访问内网资源
+record_name=“”
+###################### 修改配置信息 #######################
