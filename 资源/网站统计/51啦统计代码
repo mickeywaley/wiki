@@ -1,0 +1,25 @@
+https://user.51.la/
+
+请将下面文字框中的代码放置在您所有网页的HTML代码中。
+
+<script type="text/javascript" src="https://js.users.51.la/21195425.js"></script>
+
+温馨提醒：
+
+1.只有放置了统计计数代码 (嵌入代码) 的网页才可以被我要啦免费统计系统统计到, 请在所有需要参与统计的网页上放置统计代码。
+
+2.已全面兼容 https 网站。
+
+特殊用途代码
+
+1. MIP统计方式（功能正在优化中，敬请期待！）
+
+2. <img 方式代码。( 可用在 淘宝网店、各种免费Blog 等不支持js的网页中 )
+
+注意: 这种方式无法对来路、关键词、搜索引擎进行分析。
+
+<a href="https://www.51.la/?21195425" target="_blank"><img alt="我要啦免费统计" src="//ia.51.la/go1?id=21195425&pvFlag=1" style="border:none" /></a>
+
+3. 可置于js文件中的代码。
+
+document.write ('<script type="text/javascript"  src="https://js.users.51.la/21195425.js"></script>');
