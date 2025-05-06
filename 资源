@@ -1,0 +1,17 @@
+群辉阿里云解析脚本
+
+黑群晖使用阿里云云解析实现IPV6自动更新解析
+
+http://www.msbear.cn/archives/31.html
+
+作者：Msbear | 时间：2019 06 02 | 分类：群晖 | 评论 必要条件：黑群晖得有公网IPV6 使用方法：
+
+1.将脚本放于任意位置
+
+2.修改脚本内前五行参数
+
+aliddnsipv6_ak 阿里云控制台获取 aliddnsipv6_s 阿里云控制台获取 aliddnsipv6_name1 填DNS解析的AAAA字段（www/nas/tool/…） aliddnsipv6_domain 填你的域名（msbear.cn） aliddnsipv6_ttl 填TTL 建议600 3.打开黑群晖控制面板-任务计划-新增-计划的任务-用户定义的脚本，设置相关信息
+
+4.最后黑群晖已经在公网上了，做好安全措施，防止爆破
+
+5.脚本下载地址：aliddns.zip  https://www.msbear.cn/usr/uploads/2019/06/2078391373.zip
