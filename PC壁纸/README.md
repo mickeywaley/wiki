@@ -5,5 +5,3 @@ PC壁纸预览
 
 
 
-
-<img src="https://github.com/mickeywaley/Girl-Dress-//1.jpg" alt="" border="0" />
