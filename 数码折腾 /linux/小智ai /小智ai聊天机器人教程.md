@@ -12,7 +12,11 @@ https://github.com/78/xiaozhi-esp32/releases
 
 4. 修复上一个版本的调试信息导致 4G 卡死在说话中的 bug
 
+-------------------------------
+
 注意：bread 开头的是面包板版本，ml307 是 4G 版固件。
+
+-------------------------------
 
 烧录教程：https://ccnphfhqs21z.feishu.cn/wiki/Zpz4wXBtdimBrLk25WdcXzxcnNS
 
