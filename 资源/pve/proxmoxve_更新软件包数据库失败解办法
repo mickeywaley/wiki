@@ -1,0 +1,39 @@
+使用 Proxmox VE 默认的 APT 更新源，在 WEB 管理面板 更新 点击 刷新 后，会显示错误：
+
+TASK ERROR: command 'apt-get update' failed: exit code 100
+
+这时因为默认的更新源为 Proxmox VE 企业版的订阅，如果我们没有购买订阅，就会提示签名错误，从而使得 APT 更新失败。
+
+解决的办法很简单，就是更换软件源就可以了。 Proxmox 官方提供了对应不同版本的源，可以根据自己的情况进行选择。 这里提供Proxmox的官方非订阅源：
+
+deb http://ftp.debian.org/debian buster main contrib
+
+deb http://ftp.debian.org/debian buster-updates main contrib
+
+# PVE pve-no-subscription repository provided by proxmox.com,
+
+# NOT recommended for production use
+
+deb http://download.proxmox.com/debian/pve buster pve-no-subscription
+
+# security updates
+
+deb http://security.debian.org buster/updates main contrib
+
+使用方法：
+
+(1) 备份原来的 sources.list
+
+cp /etc/apt/sources.list /etc/apt/sources.list.bak
+
+(2) 用上面的官方非订阅源替换掉 sources.list 的内容
+
+(3) 注释 /etc/apt/sources.list.d/pve-enterprise.list 中源地址
+
+# deb https://enterprise.proxmox.com/debian/pve buster pve-enterpris
+
+(4) 执行更新
+
+apt update
+
+源替换完成后，即可在 WEB 管理面板中正常使用 更新 功能了。
