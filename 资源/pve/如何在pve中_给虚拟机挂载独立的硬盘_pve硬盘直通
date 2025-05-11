@@ -1,0 +1,34 @@
+如何在PVE中，给虚拟机挂载独立的硬盘–PVE硬盘直通
+
+进入PVE的SSH,或者直接进入PVE管理网页Shell
+
+查看你现在的存储设备的序列号:
+
+ls /dev/disk/by-id
+
+然后就能看到所有存储设备的序列号
+
+
+
+比如我的软路由主机上有两块硬盘,一个东芝SSD,一个是西数的硬盘,需要挂载的是西数的硬盘
+
+我的西数硬盘序列号是ata-WDC_WDXXXX_XXXX_XXXX,记住这个序列号
+
+然后输入以下代码(请把硬盘序列号换成你硬盘的,100换成你LEDE的虚拟机ID)
+
+qm set 100 -sata1 /dev/disk/by-id/ata-WDC_WDXXXX_XXXX_XXXX
+
+备注：自己的DSM7代码如下
+
+qm set 107 -sata1 /dev/disk/by-id/ata-ST4000DM004-2CV104_WFN5W978
+
+备注：自己的NAS下挂载第2块硬盘代码如下（备忘的，上图无此数据）
+
+qm set 105 -sata2 /dev/disk/by-id/ata-TOSHIBA_MG08ACA14TE_41U0A04JFRVH
+
+如果返回以下信息,说明已成功挂载
+
+update VM 100: -sata1 /dev/disk/by-id/ata-WDC_WDXXXX_XXXX_XXXX
+
+然后可以进入PVE管理网页,查看是否真的挂载成功.如果看到LEDE虚拟机硬件设备里有这个,就说明成功.
+
