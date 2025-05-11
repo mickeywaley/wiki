@@ -23,8 +23,8 @@ PC壁纸    https://github.com/mickeywaley/wiki/tree/main/PC%E5%A3%81%E7%BA%B8
 抖音资料 https://wiki.aq520.com/doku.php?id=%E5%BC%80%E5%A7%8B&idx=%E6%8A%96%E9%9F%B3%E8%B5%84%E6%96%99
 
 数码折腾  https://github.com/mickeywaley/wiki/tree/main/%E6%95%B0%E7%A0%81%E6%8A%98%E8%85%BE%20
-
-  ---  小智固件，可以语音点歌 https://github.com/mickeywaley/wiki/tree/main/%E6%95%B0%E7%A0%81%E6%8A%98%E8%85%BE%20/linux/%E5%B0%8F%E6%99%BAai/xiaozhi-plus-firmware-v1.6.0.1
+ 
+  ----  小智固件，可以语音点歌 https://github.com/mickeywaley/wiki/tree/main/%E6%95%B0%E7%A0%81%E6%8A%98%E8%85%BE%20/linux/%E5%B0%8F%E6%99%BAai/xiaozhi-plus-firmware-v1.6.0.1
 
 无线电收音机 https://wiki.aq520.com/doku.php?id=%E5%BC%80%E5%A7%8B&idx=%E6%97%A0%E7%BA%BF%E7%94%B5%E6%94%B6%E9%9F%B3%E6%9C%BA
 
