@@ -8,7 +8,7 @@ ls /dev/disk/by-id
 
 然后就能看到所有存储设备的序列号
 
-
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/%E8%B5%84%E6%BA%90/pve/pve01.jpg" alt="Mobile wallpaper" width="960" height="540" />
 
 比如我的软路由主机上有两块硬盘,一个东芝SSD,一个是西数的硬盘,需要挂载的是西数的硬盘
 
@@ -31,4 +31,7 @@ qm set 105 -sata2 /dev/disk/by-id/ata-TOSHIBA_MG08ACA14TE_41U0A04JFRVH
 update VM 100: -sata1 /dev/disk/by-id/ata-WDC_WDXXXX_XXXX_XXXX
 
 然后可以进入PVE管理网页,查看是否真的挂载成功.如果看到LEDE虚拟机硬件设备里有这个,就说明成功.
+
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/%E8%B5%84%E6%BA%90/pve/pve02.jpg" alt="Mobile wallpaper" width="960" height="540" />
+
 
