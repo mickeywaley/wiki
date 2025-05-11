@@ -1,0 +1,47 @@
+打开SSH软件（如finnal shell、Putty等）
+
+登录群晖：
+
+主机填写你的群晖内网IP，
+
+端口号填写上面的SSH端口号，
+
+用户名和密码填写你的账号和密码
+
+连接后，输入sudo -i，提示输入password时，输入你的群晖密码后回车（输入密码时不会显示），获取临时root权限
+
+第三步：下载补丁文件，将补丁文件上传至群晖共享文件夹
+
+1、下载你系统版本的补丁：（DSM7.1和7.2的AME版本不同，脚本不通用！只适用于x86_64的，不支持ARM）
+
+DSM7.1 AME版本3.0.1-2004：http://code.imnks.com/ame3patch/ame71-2004.py
+
+DSM7.2 AME版本3.1.0-3005：http://code.imnks.com/ame3patch/ame72-3005.py
+
+2、将补丁文件上传至你的群晖
+
+上传的位置随意，我上传的路径地址是/volume1/docker/ame_crack/
+
+第四步：运行补丁文件，激活成功
+
+在命令窗口输入：cd /volume1/docker/ame_crack/（路径填写你自己的py文件所在文件夹）
+
+回车后再输入：python ame72-3005.py（文件名根据你下载的补丁文件名而定）
+
+回车确认后，稍后有Done字样即表示成功。
+
+再次打开AME套件已经显示解码器更新ok。
+
+如果提示：
+
+MD5 mismatch，请在群晖用记事本打开你的补丁文件，将如下位置代码的 != 修改成 ==，保存后重试。需要修改的代码位置：
+
+/if hashlib.md5(full).digest().hex() != '09e3adeafe85b353c9427d93ef0185e9':
+
+将 != 修改成 ==
+
+文章参考资料：
+
+https://xpenology.com/forum/topic/65643-ame-30-patcher/
+
+https://imnks.com/385.html
