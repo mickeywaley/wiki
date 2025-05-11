@@ -5,19 +5,33 @@ https://gitee.com/wt512/xiaozhi-plus-firmware#xiaozhi-plus-firmware
 转存下 ：
 
 xiaozhi-plus-firmware
+
 介绍
+
 本固件基于虾哥的小智AI开源固件项目扩展了部分功能（https://github.com/78/xiaozhi-esp32）。 目前支持音乐播放，后期计划升级更多实用功能...比如闹钟提醒、倒计时提醒
 
 安装教程
+
 下载自己小智对应的固件包(c3芯片暂不支持)
+
 通过烧录工具烧录下载好的固件（解压后里面的后缀为.bin文件）
+
 重启
+
 使用方法
+
 安装成功后就可以通过小智AI控制播放器了。
+
 如果之前用的虾哥后台，什么都不用管，直接用。
+
 如果之前用的第三方后台服务，那么请在小智AI虾哥后台绑定设备正常使用。 虾哥后台：https://xiaozhi.me/console/agents
+
+
 固件下载:
+
 小智AI终端最新版本固件下载地址（免费）
+
+http://156.226.179.68/xiaozhi-plus-firmware/releases/
 
 更新日志：
 更新日期	更新内容	备注
