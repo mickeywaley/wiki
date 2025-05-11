@@ -1,0 +1,11 @@
+群辉 打开 file station 就是提示 命令运行失败
+
+尝试重启系统无效
+
+找到解决办法如下：
+
+SSH进入系统，执行
+
+sudo synopkg pause FileStation
+
+然后再在web页面（套件中心）中重新启动套件后即正常
