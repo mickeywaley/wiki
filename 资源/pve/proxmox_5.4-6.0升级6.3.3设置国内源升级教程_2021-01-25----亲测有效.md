@@ -1,7 +1,11 @@
 Proxmox 5.4、 6.0升级6.3-3设置国内源升级教程（2021-01-25—–亲测有效）
 
 
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/%E8%B5%84%E6%BA%90/pve/Proxmox%205.4-6.0%E5%8D%87%E7%BA%A76.3-3-01.png"  />
 
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/%E8%B5%84%E6%BA%90/pve/Proxmox%205.4-6.0%E5%8D%87%E7%BA%A76.3-3-02.png"  />
+
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/%E8%B5%84%E6%BA%90/pve/Proxmox%205.4-6.0%E5%8D%87%E7%BA%A76.3-3-03.png"  />
 
 
 
