@@ -5,7 +5,14 @@ https://wiki.aq520.com
 
 索引
 
-这是根据 命名空间 排列的所有可访问页面的索引。 
+------------------------------------
+
+PC壁纸    https://github.com/mickeywaley/wiki/tree/main/PC%E5%A3%81%E7%BA%B8
+
+手机壁纸  https://github.com/mickeywaley/wiki/tree/main/%E6%89%8B%E6%9C%BA%E5%A3%81%E7%BA%B8
+
+------------------------------------
+
 
 各地方言   https://github.com/mickeywaley/wiki/tree/main/%E5%90%84%E5%9C%B0%E6%96%B9%E8%A8%80
 
