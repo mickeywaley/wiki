@@ -18,4 +18,4 @@
 
 <img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/%E6%89%8B%E6%9C%BA%E5%A3%81%E7%BA%B8/9.jpg" alt="Mobile wallpaper" width="540" height="960" />
 
-<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/%E6%89%8B%E6%9C%BA%E5%A3%81%E7%BA%B8/10.jpg" alt="Mobile wallpaper" width="540" height="960" />
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/%E6%89%8B%E6%9C%BA%E5%A3%81%E7%BA%B8/10.png" alt="Mobile wallpaper" width="540" height="960" />
