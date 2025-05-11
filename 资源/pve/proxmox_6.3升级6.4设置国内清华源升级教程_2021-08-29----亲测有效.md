@@ -2,6 +2,7 @@ Promox 升级从 6.3-3 升级到6.4-13教程，2021-08-29—-亲测有效
 
 网上找了很多教程都是阿里源地各种报错，最后设置国内清华源升级OK
 
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/%E8%B5%84%E6%BA%90/pve/Promox%20%E5%8D%87%E7%BA%A7%E4%BB%8E%206.3-3%20%E5%8D%87%E7%BA%A7%E5%88%B06.4-13%E6%95%99%E7%A8%8B01.png"  />
 
 
 1、删除企业源
@@ -76,11 +77,12 @@ dpkg: error processing package pve-manager (–configure): dependency problems -
  
 Hit:1 https://mirrors.ustc.edu.cn/debian buster InRelease Hit:2 https://mirrors.ustc.edu.cn/debian buster-updates InRelease Hit:3 https://mirrors.ustc.edu.cn/debian-security buster/updates InRelease Hit:4 https://mirrors.ustc.edu.cn/proxmox/debian/ceph-nautilus buster InRelease Hit:5 https://mirrors.ustc.edu.cn/proxmox/debian/pve buster InRelease Reading package lists… Done Building dependency tree Reading state information… Done All packages are up to date. Reading package lists… Done Building dependency tree Reading state information… Done Calculating upgrade… Done 0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
 
-
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/%E8%B5%84%E6%BA%90/pve/Promox%20%E5%8D%87%E7%BA%A7%E4%BB%8E%206.3-3%20%E5%8D%87%E7%BA%A7%E5%88%B06.4-13%E6%95%99%E7%A8%8B03.png"  />
 
 重启机器
 
  reboot
 
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/%E8%B5%84%E6%BA%90/pve/Promox%20%E5%8D%87%E7%BA%A7%E4%BB%8E%206.3-3%20%E5%8D%87%E7%BA%A7%E5%88%B06.4-13%E6%95%99%E7%A8%8B03.png"  />
 
 升级成功
