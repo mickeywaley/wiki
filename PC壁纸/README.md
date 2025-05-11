@@ -1,23 +1,15 @@
 PC壁纸预览
 
- 原始地址：
- 
- https://github.com/mickeywaley/wiki/blob/main/PC%E5%A3%81%E7%BA%B8/0dc1a7086d4f3d4f81d7284d2a05665b.jpg
 
- https://github.com/mickeywaley/wiki/blob/main/1.jpg
- https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/PC%E5%A3%81%E7%BA%B8/0dc1a7086d4f3d4f81d7284d2a05665b.jpg
-https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/PC%E5%A3%81%E7%BA%B8/0dc1a7086d4f3d4f81d7284d2a05665b.jpg
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/PC%E5%A3%81%E7%BA%B8/1.jpg" alt="Mobile wallpaper" width="960" height="540" />
 
- 
-显示代码测试
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/PC%E5%A3%81%E7%BA%B8/2.jpg" alt="Mobile wallpaper" width="960" height="540" />
 
-<img src="[https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/PC%E5%A3%81%E7%BA%B8/0dc1a7086d4f3d4f81d7284d2a05665b.jpg]" alt="" border="0" />
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/PC%E5%A3%81%E7%BA%B8/3.jpg" alt="Mobile wallpaper" width="960" height="540" />
 
- 
-<img src="[https://github.com/mickeywaley/wiki/raw/master/1.jpg]" alt="" border="0" />
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/PC%E5%A3%81%E7%BA%B8/4.jpg" alt="Mobile wallpaper" width="960" height="540" />
 
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/PC%E5%A3%81%E7%BA%B8/5.jpg" alt="Mobile wallpaper" width="960" height="540" />
 
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/PC%E5%A3%81%E7%BA%B8/6.jpg" alt="Mobile wallpaper" width="960" height="540" />
 
-下面的是测试代码  正确显示的
-
-<img src="https://github.com/mickeywaley/Girl-Dress-/raw/master/1.jpg" alt="" border="0" />
