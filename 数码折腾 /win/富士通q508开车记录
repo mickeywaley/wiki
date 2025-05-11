@@ -1,0 +1,98 @@
+【青木硬件拼团第238波11.14】富士通平板 二手
+
+右上角有目录菜单
+
+型号：富士通 ARROW Tab Q508
+
+【腾讯文档】整理-富士通Q508常见问题及指引集合 https://docs.qq.com/sheet/DT0VaVmpKZ1N0Yk5O?tab=BB08J2
+
+
+
+图片来源 群友发的，淘宝13-15元左右，选12寸皮套就可以
+
+0復製这条( CZ00 09iIWVlfBBx¢进入【Tao宝】即可查看:/ https://s.click.taobao.com/iLgZc4u CZ3457 「平板电脑通用型7寸8寸9寸10.1寸12寸14寸保护套万能时尚旋转皮套」
+
+淘宝签到+视频拍照红包 后 价格 12左右
+
+
+
+復製这条( CZ00 7d7sWVl4NTy¢进入【Tao宝】即可查看:/ 打开蓝色链接https://fx.dmjvip.com/u9lmzl，📱进去[淘✔寶]即可
+
+笔尖 ：5根，签到红包+拍照红包（淘宝首页拍照进去后，拍照左边有个红包图标点进去，每天可以领2次）后 5-6元左右
+
+最后在搜索下关键词搜索：
+
+适用于三星spen触控笔尖芯头Tabs8/s7/s6Lite平板Note20/s23u/S9u
+
+下单笔尖
+
+配置：英特尔Atom x7-Z8550 1.4GHZ四核 CPU，4G内存，64G固态，10.1 英寸 WUXGA (1920 x 1200) IPS防眩光10点触控显示屏，前置200万像素后置800万像素摄像头，USB3.0/USB3.1和Type-C两接口并支持插入内存卡，支持Type-C视频输出，系统win10，有能力折腾安卓可以自己研究
+
+成色：9新左右，屏幕可能会有肉眼不明显可见的小白斑，设计的通病，不影响使用，屏幕有出厂的原膜，部分机器缺失部分接口盖子 套餐内容：平板、充电器带转接头、手写笔
+
+备注：屏幕已贴好类纸膜，本身就是二手机器，或多或少都有些划痕和磨损，撕掉可能会损坏屏幕，不建议撕掉
+
+进BISO修改引导顺序
+
+音量减+开机键 进bios(可以触摸操作)-+，调整启动顺序，屏幕下方F10点击保存设置。
+
+键盘f2进bios，f12可以选择启动顺序
+
+win10 OK系统 驱动备份
+
+用360驱动大师在自带系统中备份而来 如何使用： 下载360驱动大师，将文件解压至备份文件目录后运行软件，逐个恢复即可
+
+适用于win10 64位系统
+
+传输链接：https://cowtransfer.com/s/fdb76946c93b40  或 打开【奶牛快传】cowtransfer.com 使用传输口令：te0iba 提取；
+
+平板车目前遇到的问题汇
+
+富士通平板车目前遇到的问题汇1.0版本
+
+1、屏幕膜划痕：屏幕出厂已贴好类纸膜，因原先使用的问题以及运输的问题，或多或少可能会有划痕和刮痕，如果实在介意而且动手能力强的话，可以自行更换 附上我淘宝找到的膜的链接：https://m.tb.cn/h.5PQEyFQ?tk=d0lWWehggPl
+
+2、笔：部分群友反馈笔尖有点损耗，可以买了更换笔尖 附上群友 到底有多菜 找到的笔尖链接： https://m.tb.cn/h.5POUCRE?tk=uRPOWeRoBJL
+
+3、系统：目前有挺多群友自行更换了系统，反馈没有原系统好用，如果要折腾，建议备份原系统后再折腾 原系统和群友折腾的系统我看到不错的会打包放进去这个网盘，大家可以自取 （1）原版的是win10-Q508SB （2）win11可以试试里面的fst-508-win11 （3）ReviOS是专为游戏优化的 Win11 / Win10 精简版系统（3G大小的win10，群友凉菜发现的，感谢群友凉菜）
+
+链接： ?pwd=psrk 提取码：psrk –来自百度网盘超级会员V3的分享
+
+4、C口充电问题：c口是可以充电的，用支持pd的充电器，12v2a或者12v3a的就可以，可以进bios改下充电速度会快很多（改为normal voltage mode）
+
+
+
+5、频繁重启问题：插键盘，开机一直按F2进入bios，参考以下的视频和图片，把硬件电源管理关掉就可以解决，目前有几个群友遇到这个问题，关掉后已经解决
+
+
+
+6、修改音量键左右按钮为win键，方便全屏的时候唤出菜单。（进bios:原版+翻译）
+
+
+
+
+
+富士通Q508官方驱动下载
+
+https://azby.fmworld.net/app/customer/driversearch/pc/drvlistm?modelName=FARQ1801LZ&kanzen=1&supfrom=/app/customer/mypc/view/index.vhtml
+
+这个平板的官方驱动，本来官网下架了的，过技术手段找回了 q508 富士通 驱动
+
+驱动都可以在官网找到，地区一定要选择美国，然后才有，富士通针对不同地区，数据不一样， https://support.ts.fujitsu.com/index.asp?ld=us 系统目前是支持到20H2
+
+系统下载
+
+精简系统下载啊
+
+https://bbs.pcbeta.com/viewthread-1979992-1-3.html https://bbs.pcbeta.com/viewthread-1968322-1-8.html 两个精简的os 自己取用
+
+其他系统下载 来源：不是浮云 制作 cxkos 链接: ?pwd=vas6 提取码: vas6
+
+下载链接：cxk os https://space.dingtalk.com/s/gwHPAAAAAliBdRwCzkgDH54D2gAgYTYyYmVmYTRjZTBkNGQyZjkxM2UzMjhjNzQ5ODQwYjA 密码: 3MzH
+
+q508win11qm.wim 不是浮云 制作 https://www.alipan.com/s/RzfQE8kx269?adtag=wx 请勿登入微软账号（实在要登入补全英文和日文语言包，内存卡闪迪，三星等大牌兼容基本没问题，尽量别用杂牌，测试此平板512GB也支持）
+
+WS_win10_64_19045.2788.esd https://www.123pan.com/s/45z0Vv-Tk1Sh.html
+
+不忘初心 系统下载 https://www.pc521.net/
+
