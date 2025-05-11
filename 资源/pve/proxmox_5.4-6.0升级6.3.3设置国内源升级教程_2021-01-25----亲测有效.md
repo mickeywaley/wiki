@@ -38,7 +38,9 @@ ps：拷贝过来的
 
 添加如下内容-复制到终端回车：
 
- echo "deb http://mirrors.ustc.edu.cn/debian buster main contribdeb http://mirrors.ustc.edu.cn/debian buster-updates main contribdeb http://mirrors.ustc.edu.cn/debian-security buster/updates main contrib" > /etc/apt/sources.listpve_ceph
+ echo "deb http://mirrors.ustc.edu.cn/debian buster main contribdeb http://mirrors.ustc.edu.cn/debian buster-updates main contribdeb 
+ 
+ http://mirrors.ustc.edu.cn/debian-security buster/updates main contrib" > /etc/apt/sources.listpve_ceph
 
 设置国内源原配置文件：
 
