@@ -7,7 +7,7 @@ https://wiki.aq520.com
 
 这是根据 命名空间 排列的所有可访问页面的索引。 
 
-共享目录   https://wiki.aq520.com/doku.php?id=%E5%BC%80%E5%A7%8B&idx=%E5%85%B1%E4%BA%AB%E7%9B%AE%E5%BD%95
+各地方言   https://github.com/mickeywaley/wiki/tree/main/%E5%90%84%E5%9C%B0%E6%96%B9%E8%A8%80
 
 对讲机  https://wiki.aq520.com/doku.php?id=%E5%BC%80%E5%A7%8B&idx=%E5%AF%B9%E8%AE%B2%E6%9C%BA
 
@@ -15,7 +15,7 @@ https://wiki.aq520.com
 
 抖音资料 https://wiki.aq520.com/doku.php?id=%E5%BC%80%E5%A7%8B&idx=%E6%8A%96%E9%9F%B3%E8%B5%84%E6%96%99
 
-数码折腾 https://wiki.aq520.com/doku.php?id=%E5%BC%80%E5%A7%8B&idx=%E6%95%B0%E7%A0%81%E6%8A%98%E8%85%BE
+数码折腾  https://github.com/mickeywaley/wiki/tree/main/%E6%95%B0%E7%A0%81%E6%8A%98%E8%85%BE%20
 
 无线电收音机 https://wiki.aq520.com/doku.php?id=%E5%BC%80%E5%A7%8B&idx=%E6%97%A0%E7%BA%BF%E7%94%B5%E6%94%B6%E9%9F%B3%E6%9C%BA
 
@@ -25,12 +25,15 @@ https://wiki.aq520.com
 
 淘宝资料 https://wiki.aq520.com/doku.php?id=%E5%BC%80%E5%A7%8B&idx=%E6%B7%98%E5%AE%9D%E8%B5%84%E6%96%99
 
-苹果 https://wiki.aq520.com/doku.php?id=%E5%BC%80%E5%A7%8B&idx=%E8%8B%B9%E6%9E%9C
+苹果  https://github.com/mickeywaley/wiki/tree/main/%E8%8B%B9%E6%9E%9C
 
-资源 https://wiki.aq520.com/doku.php?id=%E5%BC%80%E5%A7%8B&idx=%E8%B5%84%E6%BA%90
+资源  https://github.com/mickeywaley/wiki/tree/main/%E8%B5%84%E6%BA%90
 
-开始 https://wiki.aq520.com/doku.php?id=%E5%BC%80%E5%A7%8B
+-------------------------------
+ 
+SX   https://github.com/mickeywaley/wiki/tree/main/SX
 
-home https://wiki.aq520.com/doku.php?id=home
+企业文化   https://github.com/mickeywaley/wiki/tree/main/SX/%E4%BC%81%E4%B8%9A%E6%96%87%E5%8C%96
 
+快递  https://github.com/mickeywaley/wiki/tree/main/SX/%E5%BF%AB%E9%80%92
 
