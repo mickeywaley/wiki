@@ -1,0 +1,44 @@
+# 电商相关
+
+## 物流查询
+| 图标 | 链接 |
+|------|------|
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly93d3cuMTd0cmFjay5uZXQ=" width="18" height="18"> | [全球物流查询平台](https://www.17track.net/zh-cn) |
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly93d3cuZGVwcG9uLmNvbQ==" width="18" height="18"> | [德邦快递](https://www.deppon.com/index) |
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly93d3cuc2YtZXhwcmVzcy5jb20=" width="18" height="18"> | [顺丰速运](https://www.sf-express.com/chn/sc) |
+| <img src="https://favicon.png.pub/v1/aHR0cDovL3lqY3guY2hpbmFwb3N0LmNvbS5jbg==" width="18" height="18"> | [中国邮政](http://yjcx.chinapost.com.cn/qps/yjcx) |
+| <img src="https://favicon.png.pub/v1/aHR0cDovL3d3dy5zdG8uY24=" width="18" height="18"> | [申通快递查询](http://www.sto.cn/Service/CustomerService?active_li=2&active_span=21) |
+
+## 快递公司
+| 图标 | 链接 |
+|------|------|
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly93d3cuenRvLmNvbQ==" width="18" height="18"> | [中通快递-查件](https://www.zto.com/express/expressCheck.html) |
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly93d3cuanRleHByZXNzLmNvbS5jbg==" width="18" height="18"> | [JT极兔速递](https://www.jtexpress.com.cn/service.html?indexIpt=) |
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly93d3cua3VhaWRpMTAwLmNvbQ==" width="18" height="18"> | [快递100](https://www.kuaidi100.com/) |
+| <img src="https://favicon.png.pub/v1/aHR0cDovL3d3dy55dG8ubmV0LmNu" width="18" height="18"> | [圆通速递](http://www.yto.net.cn/) |
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly93d3cuamRsLmNvbQ==" width="18" height="18"> | [京东物流](https://www.jdl.com/) |
+
+## 电商服务平台
+| 图标 | 链接 |
+|------|------|
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly9leHByZXNzLmNhaW5pYW8uY29t" width="18" height="18"> | [菜鸟速递-(原丹鸟)](https://express.cainiao.com/) |
+| <img src="https://favicon.png.pub/v1/aHR0cDovL3d3dy55dW5kYWV4LmNvbQ==" width="18" height="18"> | [韵达速递](http://www.yundaex.com/cn/index.php) |
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly93b3JrLnRhb2Jhby5jb20=" width="18" height="18"> | [千牛工作台-商家版](https://work.taobao.com/) |
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly92aXAubGJkai5jb20=" width="18" height="18"> | [鲁班到家](https://vip.lbdj.com/merchant/login) |
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly93d3cuYW1kZi5jbg==" width="18" height="18"> | [阿明代发](https://www.amdf.cn/collect) |
+
+## 工具与识别
+| 图标 | 链接 |
+|------|------|
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly9hcHAueHVuamllcGRmLmNvbQ==" width="18" height="18"> | [图片文字识别](https://app.xunjiepdf.com/ocr/) |
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly9tbXMucGluZHVvZHVvLmNvbQ==" width="18" height="18"> | [拼多多商家后台](https://mms.pinduoduo.com/login/) |
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly9meGcuamlucml0ZW1haS5jb20=" width="18" height="18"> | [抖店商家后台](https://fxg.jinritemai.com/ffa/mshop/subaccount/apply) |
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly9pbS5qaW5yaXRlbWFpLmNvbQ==" width="18" height="18"> | [飞鸽客服系统（抖店）](https://im.jinritemai.com/download/) |
+| <img src="https://favicon.png.pub/v1/aHR0cDovL3Nzd3ouc3BiLmdvdi5jbg==" width="18" height="18"> | [国家邮政局申诉网站](http://sswz.spb.gov.cn/?mType=Group) |
+
+## 其他服务
+| 图标 | 链接 |
+|------|------|
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly9wZWFyb2NyLmNvbQ==" width="18" height="18"> | [PearOCR文字识别](https://pearocr.com/) |
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly9jMm1iYy5jb25maWcueGl4aWtmLmNu" width="18" height="18"> | [淘工厂-悉犀客服](https://c2mbc.config.xixikf.cn/ops/home?from=app-center) |
+| <img src="https://favicon.png.pub/v1/aHR0cHM6Ly90Z2NzLndvZGEuY29t" width="18" height="18"> | [我打淘工厂](https://tgcs.woda.com/#/Trades) |
