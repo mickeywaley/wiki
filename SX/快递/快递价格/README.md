@@ -9,6 +9,7 @@
 邮政
 ----
 <img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/SX/%E5%BF%AB%E9%80%92/%E5%BF%AB%E9%80%92%E4%BB%B7%E6%A0%BC/%E9%82%AE%E6%94%BF.png" />
+
 ----------------------------
 
 
@@ -20,6 +21,7 @@
 
 
 丹鸟
+----
 
 旧 取消合作
 
@@ -34,6 +36,7 @@ src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/SX/%E5%B
 
 
 顺丰
+----
 
 <img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/SX/%E5%BF%AB%E9%80%92/%E5%BF%AB%E9%80%92%E4%BB%B7%E6%A0%BC/%E9%A1%BA%E4%B8%B0.jpg" />
 
@@ -41,6 +44,7 @@ src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/SX/%E5%B
 
 
 电商标快 取消合作
+----
 
 <img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/SX/%E5%BF%AB%E9%80%92/%E5%BF%AB%E9%80%92%E4%BB%B7%E6%A0%BC/%E7%94%B5%E5%95%86%E6%A0%87%E5%BF%AB.png" />
 
@@ -48,6 +52,7 @@ src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/SX/%E5%B
 
 
 中通
+----
 
 <img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/SX/%E5%BF%AB%E9%80%92/%E5%BF%AB%E9%80%92%E4%BB%B7%E6%A0%BC/%E4%B8%AD%E9%80%9A1.png" />
 
@@ -56,6 +61,7 @@ src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/SX/%E5%B
 
 
 德邦
+----
 
 旧 一票三件  
 
@@ -69,6 +75,6 @@ src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/SX/%E5%B
 
 
 其他
-
+----
 
 ----------------------------
