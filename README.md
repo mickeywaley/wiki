@@ -1,6 +1,6 @@
-# wiki 个人知识库
+## wiki 个人知识库
 
-知识库wiki，整理一些日常需要记录的
+# 知识库wiki，整理一些日常需要记录的
 
 https://wiki.aq520.com
 
