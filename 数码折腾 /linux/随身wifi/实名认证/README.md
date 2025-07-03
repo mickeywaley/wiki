@@ -14,12 +14,34 @@
 
 ## 移动
 
+链接
+
+二维码
+
+<img src="" alt="Mobile wallpaper" width="320" height="320" />
+
 ----
 
 ## 联通
+
+链接
+
+二维码
+
+<img src="" alt="Mobile wallpaper" width="320" height="320" />
 
 ----
 
 ## 广电
 
+链接
+
+二维码
+
+<img src="" alt="Mobile wallpaper" width="320" height="320" />
+
 ----
+
+## 四大运营商 多和一码
+
+<img src="" alt="Mobile wallpaper" width="960" height="240" />
