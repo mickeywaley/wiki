@@ -5,31 +5,17 @@
 暂定如下
 
 ---------------------
+8-9月初
 
-## 25年5月份---6月份公司使命愿景价值观分享排序表
-
-日期   ---      星期   ---   分享人  ---    点评人
- 
-2025.5.23  ---  周五   ---   小成    ---   王旭
-
-2025.5.30  ---  周五   ---   彬彬    ---    张金珠
-
-2025.6.6   ---  周五   ---   嘉成    ---    黎高峰
-
-2025.6.13  ---  周五   ---   王硕    ---    金文臻
-
-2025.6.20  ---  周五   ---   王旭    ---    于笑杰
-
-2025.6.27  ---  周五   ---   张金珠  ---   李政林
 
 
 ---------------------
 
-图片版本5-6月份
+图片版本7-8月份
 
-<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/SX/%E4%BD%BF%E5%91%BD%E6%84%BF%E6%99%AF%E4%BB%B7%E5%80%BC%E8%A7%82%E8%AE%B2%E8%A7%A3/01.png" alt="Mobile wallpaper" width="960" height="540" />
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/SX/%E4%BD%BF%E5%91%BD%E6%84%BF%E6%99%AF%E4%BB%B7%E5%80%BC%E8%A7%82%E8%AE%B2%E8%A7%A3/02.png" alt="Mobile wallpaper" width="960" height="540" />
 
----------------------
+--------------------------
 
 ## 25年7月份---8月份公司使命愿景价值观分享排序表
 
@@ -57,7 +43,29 @@
 --------------------------
 
 
+图片版本5-6月份
 
-图片版本7-8月份
+<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/SX/%E4%BD%BF%E5%91%BD%E6%84%BF%E6%99%AF%E4%BB%B7%E5%80%BC%E8%A7%82%E8%AE%B2%E8%A7%A3/01.png" alt="Mobile wallpaper" width="960" height="540" />
 
-<img src="https://raw.githubusercontent.com/mickeywaley/wiki/refs/heads/main/SX/%E4%BD%BF%E5%91%BD%E6%84%BF%E6%99%AF%E4%BB%B7%E5%80%BC%E8%A7%82%E8%AE%B2%E8%A7%A3/02.png" alt="Mobile wallpaper" width="960" height="540" />
+---------------------
+
+## 25年5月份---6月份公司使命愿景价值观分享排序表
+
+日期   ---      星期   ---   分享人  ---    点评人
+ 
+2025.5.23  ---  周五   ---   小成    ---   王旭
+
+2025.5.30  ---  周五   ---   彬彬    ---    张金珠
+
+2025.6.6   ---  周五   ---   嘉成    ---    黎高峰
+
+2025.6.13  ---  周五   ---   王硕    ---    金文臻
+
+2025.6.20  ---  周五   ---   王旭    ---    于笑杰
+
+2025.6.27  ---  周五   ---   张金珠  ---   李政林
+
+
+---------------------
+
+
